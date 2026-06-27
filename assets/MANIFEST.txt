@@ -1,10 +1,14 @@
 SG Factory — irreplaceable asset backup (authored + project + covers)
-synced: 2026-06-21T03:17Z
+synced: 2026-06-27T22:19Z
 source VPS: /home/claude/sleeping-goddesses-factory/reels_engine/assets/images
 NOTE: music/ and auto/ and incoming/ are NOT backed up (re-downloadable / regenerable).
 
 authored/alber.png
+authored/anahita.png
+authored/ashnan.png
+authored/aurora.png
 authored/beatrice_stiletto.png
+authored/bonus_cupbearer_admiral.png
 authored/carrack.png
 authored/cornaro_red.png
 authored/cover_book2.jpg
@@ -12,27 +16,37 @@ authored/cover_book3.jpg
 authored/cover_book3.jpg.bak_20260620
 authored/cover_book4.jpg
 authored/diadema.png
+authored/dike.png
 authored/emile_ship.png
 authored/emilia_rings.png
+authored/ereshkigal.png
 authored/francis.png
 authored/galley.png
 authored/hecate.png
 authored/ishtar.png
+authored/kaveh.png
+authored/lamashtu.png
 authored/liana_ritual.png
 authored/mark_black.png
+authored/nisaba.png
 authored/scene_arena.png
+authored/scene_battle_strait.png
 authored/scene_beatrice_duel.png
 authored/scene_black_eyes.png
 authored/scene_blank_page.png
 authored/scene_boy_soldier.png
 authored/scene_bridge_jump.png
 authored/scene_burned_hand.png
+authored/scene_cataclysm.png
 authored/scene_cavalry.png
+authored/scene_city_fire.png
 authored/scene_diadema_hecate.png
 authored/scene_diadema_temple.png
 authored/scene_diamant_blast.png
+authored/scene_duel.png
 authored/scene_ereshkigal_throne.png
 authored/scene_ereshkigal_web.png
+authored/scene_fire_walk.png
 authored/scene_fog_fleet.png
 authored/scene_fog_ghost.png
 authored/scene_goddess_wrath.png
@@ -46,6 +60,7 @@ authored/scene_irkalla_plain.png
 authored/scene_ishtar_rope.png
 authored/scene_liana_fog.png
 authored/scene_liana_shadows.png
+authored/scene_magic_surge.png
 authored/scene_ragusa_assault.png
 authored/scene_salvatore.png
 authored/scene_selene_bow.png
@@ -60,6 +75,7 @@ authored/sebastian.png
 authored/selene.png
 authored/series.png
 authored/three_brothers.png
+authored/tiamat.png
 project/Beatrice_Card_1_Hero.png
 project/Beatrice_Card_3_Cupbearer.png
 project/brand_Book1_cover.jpg
