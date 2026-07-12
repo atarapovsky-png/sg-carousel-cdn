@@ -1,5 +1,5 @@
 SG Factory — irreplaceable asset backup (authored + project + covers)
-synced: 2026-07-05T03:17Z
+synced: 2026-07-12T03:17Z
 source VPS: /home/claude/sleeping-goddesses-factory/reels_engine/assets/images
 NOTE: music/ and auto/ and incoming/ are NOT backed up (re-downloadable / regenerable).
 
@@ -74,12 +74,12 @@ authored/scene_wine.png
 authored/sebastian.png
 authored/selene.png
 authored/series.png
+authored/series.png.bak_old_book1cover
 authored/three_brothers.png
 authored/tiamat.png
 project/Beatrice_Card_1_Hero.png
 project/Beatrice_Card_3_Cupbearer.png
 project/brand_Book1_cover.jpg
-project/brand_Book1_cover.jpg.bak_20260620
 project/face_Cornaro_1_Hero.png
 project/face_Emile_PRIMARY.png
 project/face_Liana_PRIMARY.png
