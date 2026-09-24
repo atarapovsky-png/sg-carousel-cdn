@@ -1,0 +1,33 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>SG Factory — Facebook OAuth</title>
+<style>
+  body{font:16px/1.5 -apple-system,system-ui,sans-serif;background:#1a0e0a;color:#f4ebd9;
+       margin:0;display:grid;place-items:center;min-height:100vh}
+  .card{max-width:640px;padding:32px;background:#241511;border:1px solid #6b4f2a;border-radius:12px}
+  h1{font-size:20px;margin:0 0 12px}
+  code{display:block;word-break:break-all;background:#120a07;padding:14px;border-radius:8px;
+       border:1px solid #6b4f2a;color:#e8c87a;margin:12px 0}
+  button{font:inherit;padding:10px 18px;border-radius:8px;border:0;background:#c9a227;
+         color:#1a0e0a;cursor:pointer}
+  .err{color:#e88}
+</style>
+<div class="card">
+  <h1>SG Factory · авторизация Facebook</h1>
+  <div id="out">…</div>
+</div>
+<script>
+  const p = new URLSearchParams(location.search);
+  const code = p.get("code"), err = p.get("error_description") || p.get("error");
+  const out = document.getElementById("out");
+  if (code) {
+    out.innerHTML = "<p>Готово. Передайте этот <b>code</b> (одноразовый, без секрета приложения бесполезен):</p>" +
+      "<code id='c'>" + code + "</code><button id='b'>Скопировать</button>";
+    document.getElementById("b").onclick = () => {
+      navigator.clipboard.writeText(code);
+      document.getElementById("b").textContent = "Скопировано";
+    };
+  } else {
+    out.innerHTML = "<p class='err'>Кода нет. " + (err ? "Ответ: " + err : "Откройте ссылку авторизации заново.") + "</p>";
+  }
+</script>
