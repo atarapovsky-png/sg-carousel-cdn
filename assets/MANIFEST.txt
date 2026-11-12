@@ -1,7 +1,11 @@
-SG Factory — irreplaceable asset backup (authored + project + covers)
-synced: 2026-11-08T04:17Z
-source VPS: /home/claude/sleeping-goddesses-factory/reels_engine/assets/images
-NOTE: music/ and auto/ and incoming/ are NOT backed up (re-downloadable / regenerable).
+SG Factory — irreplaceable asset backup
+synced: 2026-11-12T21:59Z
+source VPS: /home/claude/sleeping-goddesses-factory/reels_engine/assets/images + /home/claude/sleeping-goddesses-factory/data/assets
+included: authored/ project/ covers/ + data_author/ data_author_retired/ data_covers/
+NOTE: music/, auto/ and incoming/ are NOT backed up (re-downloadable / regenerable).
+NOTE: data/assets/broll/ is NOT backed up here — 1.6G of video.
+      Its inventory lives in BROLL_INVENTORY.txt / BROLL_SHA256.txt, so loss is detectable;
+      the clips themselves exist on the VPS and on the author's Mac, and nowhere else.
 
 authored/alber.png
 authored/anahita.png
@@ -81,9 +85,28 @@ authored/tiamat.png
 project/Beatrice_Card_1_Hero.png
 project/Beatrice_Card_3_Cupbearer.png
 project/brand_Book1_cover.jpg
+project/brand_series_three_straight.png
 project/face_Cornaro_1_Hero.png
 project/face_Emile_PRIMARY.png
 project/face_Liana_PRIMARY.png
 project/face_Mark_PRIMARY.png
 project/world_map_Jeweled_Sea.png
 project/world_Ragusa_morning_window.png
+data/author/alex_cathedral_portal.jpg
+data/author/alex_coimbra.jpg
+data/author/alex_evening_street.jpg
+data/author/alex_genoese_fortress.jpg
+data/author/alex_gothic_arch.jpg
+data/author/alex_map_and_book.jpg
+data/author/alex_marrakesh.jpg
+data/author/alex_munich_marienplatz.jpg
+data/author/alex_museum.jpg
+data/author/alex_peel_castle.jpg
+data/author/alex_toledo.jpg
+data/author/alex_vienna_strauss.jpg
+data/author_retired/alex.jpg
+data/author_retired/alex_night_portrait.jpg
+data/author_retired/alex_sapphic_closing.jpg
+data/author_retired/alex_vienna_sphinx.jpg
+data/covers/legend.jpg
+data/covers/the-lions-of-al-rassan.jpg
