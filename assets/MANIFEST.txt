@@ -1,5 +1,5 @@
 SG Factory — irreplaceable asset backup
-synced: 2026-11-12T21:59Z
+synced: 2026-11-15T04:17Z
 source VPS: /home/claude/sleeping-goddesses-factory/reels_engine/assets/images + /home/claude/sleeping-goddesses-factory/data/assets
 included: authored/ project/ covers/ + data_author/ data_author_retired/ data_covers/
 NOTE: music/, auto/ and incoming/ are NOT backed up (re-downloadable / regenerable).
