@@ -1,5 +1,5 @@
 SG Factory — irreplaceable asset backup
-synced: 2026-11-15T04:17Z
+synced: 2026-11-22T04:17Z
 source VPS: /home/claude/sleeping-goddesses-factory/reels_engine/assets/images + /home/claude/sleeping-goddesses-factory/data/assets
 included: authored/ project/ covers/ + data_author/ data_author_retired/ data_covers/
 NOTE: music/, auto/ and incoming/ are NOT backed up (re-downloadable / regenerable).
@@ -63,7 +63,7 @@ authored/scene_hecate_road.png
 authored/scene_irkalla_gates.png
 authored/scene_irkalla_plain.png
 authored/scene_ishtar_rope.png
-authored/scene_liana_fog.png
+authored/scene_liana_alber_blood_ritual.png
 authored/scene_liana_shadows.png
 authored/scene_magic_surge.png
 authored/scene_ragusa_assault.png
